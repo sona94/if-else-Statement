@@ -8,6 +8,7 @@ namespace If_else_Example
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello");
             if(20 < 32)
             {
                 Console.WriteLine("20 is less than 32");
